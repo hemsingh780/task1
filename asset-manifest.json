@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/task1/static/css/main.514b5b2e.chunk.css",
+    "main.js": "/task1/static/js/main.d0e15e80.chunk.js",
+    "main.js.map": "/task1/static/js/main.d0e15e80.chunk.js.map",
+    "runtime-main.js": "/task1/static/js/runtime-main.9915bc85.js",
+    "runtime-main.js.map": "/task1/static/js/runtime-main.9915bc85.js.map",
+    "static/js/2.0e212ab3.chunk.js": "/task1/static/js/2.0e212ab3.chunk.js",
+    "static/js/2.0e212ab3.chunk.js.map": "/task1/static/js/2.0e212ab3.chunk.js.map",
+    "static/js/3.2ea27a54.chunk.js": "/task1/static/js/3.2ea27a54.chunk.js",
+    "static/js/3.2ea27a54.chunk.js.map": "/task1/static/js/3.2ea27a54.chunk.js.map",
+    "index.html": "/task1/index.html",
+    "static/css/main.514b5b2e.chunk.css.map": "/task1/static/css/main.514b5b2e.chunk.css.map",
+    "static/js/2.0e212ab3.chunk.js.LICENSE.txt": "/task1/static/js/2.0e212ab3.chunk.js.LICENSE.txt",
+    "static/media/HODLINFO.png": "/task1/static/media/HODLINFO.ea678db9.png",
+    "static/media/icon2.png": "/task1/static/media/icon2.82d408ba.png",
+    "static/media/icon5.png": "/task1/static/media/icon5.8e6bd21b.png",
+    "static/media/icon6": "/task1/static/media/icon6.5958f417.bin",
+    "static/media/image1.png": "/task1/static/media/image1.55699dca.png",
+    "static/media/image2.png": "/task1/static/media/image2.6e4a62e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9915bc85.js",
+    "static/js/2.0e212ab3.chunk.js",
+    "static/css/main.514b5b2e.chunk.css",
+    "static/js/main.d0e15e80.chunk.js"
+  ]
+}
