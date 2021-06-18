@@ -1,0 +1,87 @@
+.Navigation{
+    display: flex;
+    grid-gap: 20px;
+    padding: 1rem;
+    text-align: center;
+}
+/* 
+.Navigation1 select{
+    background-color: red;
+    padding: 9px;
+    outline: none;
+    border: none;
+    border-radius: 10%;
+
+}
+.Navigation2 select{
+    background-color: red;
+    padding: 9px;
+    outline: none;
+    border: none;
+    border-radius: 10%;
+
+}
+.Navigation3 span{
+    background-color: red;
+    padding:9px;
+    margin:  2px 0 0 0 ;
+    outline: none;
+    border: none;
+    border-radius: 10%;
+} */
+
+.Navigation1{
+   
+    padding: 9px;
+    outline: none;
+    border: none;
+    border-radius: 10%;
+
+}
+.Navigation2{
+
+    padding: 9px;
+    outline: none;
+    border: none;
+    border-radius: 10%;
+
+}
+.Navigation3{
+   
+    padding:9px;
+    margin:  2px 0 0 0 ;
+    outline: none;
+    border: none;
+    border-radius: 10%;
+}
+.Navigation1 select{
+    color: white;                                                             
+    background-color: #2e3241;
+    padding: 9px;
+    font-size: 14px;
+    outline: none;
+    border: none;
+    border-radius: 10%;
+
+}
+.Navigation2 select{
+    color: white;
+    background-color: #2e3241;
+    padding: 9px;
+    font-size: 14px;
+    outline: none;
+    border: none;
+    border-radius: 10%;
+
+}
+.Navigation3 div{
+    color: white;
+    background-color: #2e3241;
+    margin:  0px 0 0 0 ;
+    padding: 10px;
+    outline: none;
+    font-size: 14px;
+    border: none;
+    border-radius: 10%;
+    box-sizing: border-box;
+}

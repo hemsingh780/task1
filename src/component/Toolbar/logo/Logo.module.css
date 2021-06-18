@@ -1,0 +1,14 @@
+.Logo{
+    max-width: 91%;
+}
+.Logo p{
+  color: #6c757d;
+  font-size: 20px;
+  line-height: 0px;}
+.Logo p span{
+    color: rgb(61, 198, 193);
+  }
+.Logo img{
+    width: 80%;
+    vertical-align: middle;
+}

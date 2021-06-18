@@ -1,0 +1,24 @@
+.PlatForm{
+    background-color: #2e3241;
+    display: flex;
+    justify-content: space-around;
+    margin: 1rem;
+    padding: 10px;
+    border-radius: 10px;
+}
+.PlatForm2 img{
+ width: 24px;
+ height: 24px;
+ border-radius: 50%;
+
+}
+.PlatForm2 {
+    display: flex;
+    grid-gap:15px;
+}
+/* .PlatForm2 img{
+    margin-top: 14px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+} */

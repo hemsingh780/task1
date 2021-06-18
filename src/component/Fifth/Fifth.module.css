@@ -1,0 +1,18 @@
+.Fifth{
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+    color: white;
+    font-size: 24px;
+}
+.main {
+    color: #6c757d;
+    display: flex;
+    justify-content: space-around;
+}
+
+@media only screen and(max-width:788px){
+    .Fifth{
+        width: 90%;
+    }
+}

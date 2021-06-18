@@ -1,0 +1,28 @@
+.Eight{
+
+    border: solid 1px #191d28;
+    background-color: #191d28;
+    position: fixed;
+    left: 0;
+    text-align: center;
+    width: 100vw;
+    height: 47px;
+    bottom: 0;
+    z-index: 8;
+}
+.Eight button{
+    text-align: center;
+    padding: 13px;
+    outline: none;
+    border: none;
+    color: #17a2b8;
+    border:1px solid #17a2b8;
+    font-size: medium;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+.Eight button:hover{
+   background-color: #17a2b8;
+    color:white;
+}

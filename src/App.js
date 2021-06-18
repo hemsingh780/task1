@@ -1,23 +1,25 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Fifth from './component/Fifth/Fifth';
+import FourthComponent from './component/FourthComponent/FourthComponent';
+import LowerText from './component/LowerText/LowerText';
+import Seventh from './component/Seventh/Seventh';
+import Sixth from './component/Sixth/Sixth';
+import ThirdComponent from './component/ThirdComponent/ThirdComponent';
+import Toolbar from './component/Toolbar/Toolbar';
+import Eight from './component/Eight/Eight';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+       <Toolbar />
+        <LowerText />
+        <ThirdComponent />
+       <FourthComponent />
+       <Fifth />
+       <Sixth />
+       <Seventh />
+       <Eight />
     </div>
   );
 }

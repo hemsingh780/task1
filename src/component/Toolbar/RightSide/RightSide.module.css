@@ -1,0 +1,28 @@
+.RightSide{
+    display: flex;
+    grid-gap: 20px;
+    padding: 1rem;
+    text-align: center;
+}
+
+.RightSide2{
+    padding: 8px;
+    background-color: #3dc6c1;
+    border-radius: 10px;
+    display: flex;
+    height: 29%;
+}
+
+.RightSide1{
+    color: #3dc6c1;
+    height: 29%;
+    padding: 8px;
+    border-radius: 10%;
+}
+
+.RightSide3{
+    color: #3dc6c1;
+    height: 29%;
+    padding: 8px;
+    border-radius: 10%;
+}

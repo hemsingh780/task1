@@ -1,0 +1,21 @@
+.Seventh{
+    display: flex;
+    justify-content: space-between;
+    /* margin:  0 1rem 0; */
+    padding: 8px;
+    font-size: smaller;
+    margin-bottom: 3rem;
+    color: #9fa0a5;;
+    border-top: 2px solid #2e3241;
+}
+.Seventh1 span{
+    color: cyan;
+}
+.Seventh1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Seventh2{
+    
+}
